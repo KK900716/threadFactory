@@ -45,19 +45,23 @@ public final class Execute implements Runnable {
     @Override
     public void run() {
         for (; ; ) {
-            // 执行锁，限制该线程每次
+            // 执行锁，限制该线程每次顺序执行在该线程上的任务
             exeLock.lock();
+            // 等待被唤醒执行该线程
             exeCondition.await();
             // preparedStatement.executeBatch();
             log.debug("Id: {}, is executing", Thread.currentThread().getId());
             Thread.sleep(2000);
+            // 提交过程需要按序执行
             commitLock.lock();
+            // 监测是否唤醒了自己执行提交
             while (this.exeId.get() != id) {
                 commitCondition.await();
             }
             log.info("Id: {}, is committing {}", Thread.currentThread().getId(), id);
             Thread.sleep(500);
             // connection.commit();
+            // 唤醒下个线程执行提交
             exeId.set(nextExecuteId);
             commitCondition.signalAll();
             commitLock.unlock();
