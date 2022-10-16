@@ -3786,3 +3786,445 @@
 [2022-10-16 at 11:25:22 CST] [INFO ] com.example.main.Main.main(Main.java:18) - 136
 [2022-10-16 at 11:25:22 CST] [INFO ] com.example.main.Main.main(Main.java:18) - 137
 [2022-10-16 at 11:25:22 CST] [DEBUG] com.example.main.Execute.run(Execute.java:51) - Id: 19, is executing
+[2022-10-16 at 12:36:51 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 0
+[2022-10-16 at 12:36:51 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 17, is executing
+[2022-10-16 at 12:36:51 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 1
+[2022-10-16 at 12:36:51 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 18, is executing
+[2022-10-16 at 12:36:51 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 2
+[2022-10-16 at 12:36:51 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 19, is executing
+[2022-10-16 at 12:36:51 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 3
+[2022-10-16 at 12:36:51 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 20, is executing
+[2022-10-16 at 12:36:51 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 4
+[2022-10-16 at 12:36:51 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 21, is executing
+[2022-10-16 at 12:36:51 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 5
+[2022-10-16 at 12:36:51 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 22, is executing
+[2022-10-16 at 12:36:51 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 23, is executing
+[2022-10-16 at 12:36:51 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 6
+[2022-10-16 at 12:36:51 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 7
+[2022-10-16 at 12:36:51 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 24, is executing
+[2022-10-16 at 12:36:51 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 8
+[2022-10-16 at 12:36:51 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 25, is executing
+[2022-10-16 at 12:36:51 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 9
+[2022-10-16 at 12:36:51 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 26, is executing
+[2022-10-16 at 12:36:53 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 17, is committing 0
+[2022-10-16 at 12:36:53 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 10
+[2022-10-16 at 12:36:53 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 17, is executing
+[2022-10-16 at 12:36:53 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 18, is committing 1
+[2022-10-16 at 12:36:54 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 18, is executing
+[2022-10-16 at 12:36:54 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 11
+[2022-10-16 at 12:36:54 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 19, is committing 2
+[2022-10-16 at 12:36:54 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 19, is executing
+[2022-10-16 at 12:36:54 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 12
+[2022-10-16 at 12:36:54 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 20, is committing 3
+[2022-10-16 at 12:36:55 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 13
+[2022-10-16 at 12:36:55 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 21, is committing 4
+[2022-10-16 at 12:36:55 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 20, is executing
+[2022-10-16 at 12:36:55 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 21, is executing
+[2022-10-16 at 12:36:55 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 22, is committing 5
+[2022-10-16 at 12:36:55 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 14
+[2022-10-16 at 12:36:56 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 22, is executing
+[2022-10-16 at 12:36:56 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 15
+[2022-10-16 at 12:36:56 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 23, is committing 6
+[2022-10-16 at 12:36:56 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 16
+[2022-10-16 at 12:36:56 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 24, is committing 7
+[2022-10-16 at 12:36:56 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 23, is executing
+[2022-10-16 at 12:36:57 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 17
+[2022-10-16 at 12:36:57 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 25, is committing 8
+[2022-10-16 at 12:36:57 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 24, is executing
+[2022-10-16 at 12:36:57 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 26, is committing 9
+[2022-10-16 at 12:36:57 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 25, is executing
+[2022-10-16 at 12:36:57 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 18
+[2022-10-16 at 12:36:58 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 19
+[2022-10-16 at 12:36:58 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 17, is committing 0
+[2022-10-16 at 12:36:58 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 26, is executing
+[2022-10-16 at 12:36:58 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 20
+[2022-10-16 at 12:36:58 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 18, is committing 1
+[2022-10-16 at 12:36:58 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 17, is executing
+[2022-10-16 at 12:36:59 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 18, is executing
+[2022-10-16 at 12:36:59 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 19, is committing 2
+[2022-10-16 at 12:36:59 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 21
+[2022-10-16 at 12:36:59 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 19, is executing
+[2022-10-16 at 12:36:59 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 20, is committing 3
+[2022-10-16 at 12:36:59 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 22
+[2022-10-16 at 12:37:00 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 23
+[2022-10-16 at 12:37:00 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 20, is executing
+[2022-10-16 at 12:37:00 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 21, is committing 4
+[2022-10-16 at 12:37:00 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 24
+[2022-10-16 at 12:37:00 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 22, is committing 5
+[2022-10-16 at 12:37:00 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 21, is executing
+[2022-10-16 at 12:37:01 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 23, is committing 6
+[2022-10-16 at 12:37:01 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 22, is executing
+[2022-10-16 at 12:37:01 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 25
+[2022-10-16 at 12:37:01 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 26
+[2022-10-16 at 12:37:01 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 23, is executing
+[2022-10-16 at 12:37:01 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 24, is committing 7
+[2022-10-16 at 12:37:02 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 24, is executing
+[2022-10-16 at 12:37:02 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 25, is committing 8
+[2022-10-16 at 12:37:02 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 27
+[2022-10-16 at 12:37:02 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 28
+[2022-10-16 at 12:37:02 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 25, is executing
+[2022-10-16 at 12:37:02 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 26, is committing 9
+[2022-10-16 at 12:37:03 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 26, is executing
+[2022-10-16 at 12:37:03 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 29
+[2022-10-16 at 12:37:03 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 17, is committing 0
+[2022-10-16 at 12:37:03 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 17, is executing
+[2022-10-16 at 12:37:03 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 18, is committing 1
+[2022-10-16 at 12:37:03 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 30
+[2022-10-16 at 12:37:04 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 18, is executing
+[2022-10-16 at 12:37:04 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 19, is committing 2
+[2022-10-16 at 12:37:04 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 31
+[2022-10-16 at 12:37:04 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 32
+[2022-10-16 at 12:37:04 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 19, is executing
+[2022-10-16 at 12:37:04 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 20, is committing 3
+[2022-10-16 at 12:37:05 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 21, is committing 4
+[2022-10-16 at 12:37:05 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 33
+[2022-10-16 at 12:37:05 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 20, is executing
+[2022-10-16 at 12:37:05 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 34
+[2022-10-16 at 12:37:05 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 22, is committing 5
+[2022-10-16 at 12:37:05 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 21, is executing
+[2022-10-16 at 12:37:06 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 22, is executing
+[2022-10-16 at 12:37:06 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 35
+[2022-10-16 at 12:37:06 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 23, is committing 6
+[2022-10-16 at 12:37:06 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 36
+[2022-10-16 at 12:37:06 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 23, is executing
+[2022-10-16 at 12:37:06 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 24, is committing 7
+[2022-10-16 at 12:37:07 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 37
+[2022-10-16 at 12:37:07 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 25, is committing 8
+[2022-10-16 at 12:37:07 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 24, is executing
+[2022-10-16 at 12:37:07 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 25, is executing
+[2022-10-16 at 12:37:07 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 38
+[2022-10-16 at 12:37:07 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 26, is committing 9
+[2022-10-16 at 12:37:08 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 39
+[2022-10-16 at 12:37:08 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 17, is committing 0
+[2022-10-16 at 12:37:08 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 26, is executing
+[2022-10-16 at 12:37:08 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 40
+[2022-10-16 at 12:37:08 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 18, is committing 1
+[2022-10-16 at 12:37:08 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 17, is executing
+[2022-10-16 at 12:37:09 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 19, is committing 2
+[2022-10-16 at 12:37:09 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 41
+[2022-10-16 at 12:37:09 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 18, is executing
+[2022-10-16 at 12:37:09 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 42
+[2022-10-16 at 12:37:09 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 20, is committing 3
+[2022-10-16 at 12:37:09 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 19, is executing
+[2022-10-16 at 12:37:10 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 21, is committing 4
+[2022-10-16 at 12:37:10 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 43
+[2022-10-16 at 12:37:10 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 21, is executing
+[2022-10-16 at 12:37:10 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 44
+[2022-10-16 at 12:37:10 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 22, is committing 5
+[2022-10-16 at 12:37:11 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 22, is executing
+[2022-10-16 at 12:37:11 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 23, is committing 6
+[2022-10-16 at 12:37:11 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 45
+[2022-10-16 at 12:37:11 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 23, is executing
+[2022-10-16 at 12:37:11 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 46
+[2022-10-16 at 12:37:11 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 24, is committing 7
+[2022-10-16 at 12:37:12 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 24, is executing
+[2022-10-16 at 12:37:12 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 25, is committing 8
+[2022-10-16 at 12:37:12 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 47
+[2022-10-16 at 12:37:12 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 25, is executing
+[2022-10-16 at 12:37:12 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 48
+[2022-10-16 at 12:37:12 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 26, is committing 9
+[2022-10-16 at 12:37:13 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 26, is executing
+[2022-10-16 at 12:37:13 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 17, is committing 0
+[2022-10-16 at 12:37:13 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 49
+[2022-10-16 at 12:37:13 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 17, is executing
+[2022-10-16 at 12:37:13 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 50
+[2022-10-16 at 12:37:13 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 18, is committing 1
+[2022-10-16 at 12:37:14 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 51
+[2022-10-16 at 12:37:14 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 18, is executing
+[2022-10-16 at 12:37:14 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 19, is committing 2
+[2022-10-16 at 12:37:15 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 52
+[2022-10-16 at 12:37:15 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 19, is executing
+[2022-10-16 at 12:37:15 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 20, is executing
+[2022-10-16 at 12:37:15 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 53
+[2022-10-16 at 12:37:17 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 20, is committing 3
+[2022-10-16 at 12:37:17 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 21, is committing 4
+[2022-10-16 at 12:37:18 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 54
+[2022-10-16 at 12:37:18 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 21, is executing
+[2022-10-16 at 12:37:18 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 22, is committing 5
+[2022-10-16 at 12:37:18 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 23, is committing 6
+[2022-10-16 at 12:37:18 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 55
+[2022-10-16 at 12:37:18 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 22, is executing
+[2022-10-16 at 12:37:19 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 56
+[2022-10-16 at 12:37:19 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 23, is executing
+[2022-10-16 at 12:37:19 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 24, is committing 7
+[2022-10-16 at 12:37:19 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 57
+[2022-10-16 at 12:37:19 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 24, is executing
+[2022-10-16 at 12:37:19 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 25, is committing 8
+[2022-10-16 at 12:37:20 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 25, is executing
+[2022-10-16 at 12:37:20 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 58
+[2022-10-16 at 12:37:20 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 26, is committing 9
+[2022-10-16 at 12:37:20 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 26, is executing
+[2022-10-16 at 12:37:20 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 59
+[2022-10-16 at 12:37:20 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 17, is committing 0
+[2022-10-16 at 12:37:21 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 18, is committing 1
+[2022-10-16 at 12:37:21 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 60
+[2022-10-16 at 12:37:21 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 18, is executing
+[2022-10-16 at 12:37:21 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 19, is committing 2
+[2022-10-16 at 12:37:21 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 61
+[2022-10-16 at 12:37:22 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 19, is executing
+[2022-10-16 at 12:37:22 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 62
+[2022-10-16 at 12:37:22 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 63
+[2022-10-16 at 12:37:22 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 20, is executing
+[2022-10-16 at 12:37:24 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 20, is committing 3
+[2022-10-16 at 12:37:24 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 21, is committing 4
+[2022-10-16 at 12:37:25 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 64
+[2022-10-16 at 12:37:25 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 21, is executing
+[2022-10-16 at 12:37:25 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 22, is committing 5
+[2022-10-16 at 12:37:25 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 22, is executing
+[2022-10-16 at 12:37:25 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 65
+[2022-10-16 at 12:37:25 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 23, is committing 6
+[2022-10-16 at 12:37:26 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 23, is executing
+[2022-10-16 at 12:37:26 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 24, is committing 7
+[2022-10-16 at 12:37:26 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 66
+[2022-10-16 at 12:37:26 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 67
+[2022-10-16 at 12:37:26 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 25, is committing 8
+[2022-10-16 at 12:37:26 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 24, is executing
+[2022-10-16 at 12:37:27 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 26, is committing 9
+[2022-10-16 at 12:37:27 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 68
+[2022-10-16 at 12:37:27 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 25, is executing
+[2022-10-16 at 12:37:27 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 26, is executing
+[2022-10-16 at 12:37:27 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 69
+[2022-10-16 at 12:37:27 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 70
+[2022-10-16 at 12:37:27 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 17, is executing
+[2022-10-16 at 12:37:29 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 17, is committing 0
+[2022-10-16 at 12:37:30 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 18, is committing 1
+[2022-10-16 at 12:37:30 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 18, is executing
+[2022-10-16 at 12:37:30 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 19, is committing 2
+[2022-10-16 at 12:37:30 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 71
+[2022-10-16 at 12:37:31 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 72
+[2022-10-16 at 12:37:31 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 19, is executing
+[2022-10-16 at 12:37:31 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 73
+[2022-10-16 at 12:37:31 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 20, is executing
+[2022-10-16 at 12:37:33 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 20, is committing 3
+[2022-10-16 at 12:37:33 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 21, is committing 4
+[2022-10-16 at 12:37:34 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 74
+[2022-10-16 at 12:37:34 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 21, is executing
+[2022-10-16 at 12:37:34 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 22, is committing 5
+[2022-10-16 at 12:37:34 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 23, is committing 6
+[2022-10-16 at 12:37:34 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 22, is executing
+[2022-10-16 at 12:37:34 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 75
+[2022-10-16 at 12:37:35 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 76
+[2022-10-16 at 12:37:35 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 23, is executing
+[2022-10-16 at 12:37:35 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 24, is committing 7
+[2022-10-16 at 12:37:35 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 77
+[2022-10-16 at 12:37:35 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 25, is committing 8
+[2022-10-16 at 12:37:35 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 24, is executing
+[2022-10-16 at 12:37:36 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 25, is executing
+[2022-10-16 at 12:37:36 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 26, is committing 9
+[2022-10-16 at 12:37:36 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 78
+[2022-10-16 at 12:37:36 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 79
+[2022-10-16 at 12:37:36 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 26, is executing
+[2022-10-16 at 12:37:36 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 80
+[2022-10-16 at 12:37:36 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 17, is executing
+[2022-10-16 at 12:37:38 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 17, is committing 0
+[2022-10-16 at 12:37:39 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 18, is committing 1
+[2022-10-16 at 12:37:39 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 81
+[2022-10-16 at 12:37:39 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 18, is executing
+[2022-10-16 at 12:37:39 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 19, is committing 2
+[2022-10-16 at 12:37:40 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 19, is executing
+[2022-10-16 at 12:37:40 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 82
+[2022-10-16 at 12:37:40 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 83
+[2022-10-16 at 12:37:40 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 20, is executing
+[2022-10-16 at 12:37:42 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 20, is committing 3
+[2022-10-16 at 12:37:42 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 21, is committing 4
+[2022-10-16 at 12:37:43 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 84
+[2022-10-16 at 12:37:43 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 21, is executing
+[2022-10-16 at 12:37:43 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 22, is committing 5
+[2022-10-16 at 12:37:43 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 85
+[2022-10-16 at 12:37:43 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 23, is committing 6
+[2022-10-16 at 12:37:43 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 22, is executing
+[2022-10-16 at 12:37:44 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 24, is committing 7
+[2022-10-16 at 12:37:44 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 86
+[2022-10-16 at 12:37:44 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 23, is executing
+[2022-10-16 at 12:37:44 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 87
+[2022-10-16 at 12:37:44 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 24, is executing
+[2022-10-16 at 12:37:44 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 25, is committing 8
+[2022-10-16 at 12:37:45 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 26, is committing 9
+[2022-10-16 at 12:37:45 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 25, is executing
+[2022-10-16 at 12:37:45 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 88
+[2022-10-16 at 12:37:45 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 26, is executing
+[2022-10-16 at 12:37:45 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 89
+[2022-10-16 at 12:37:45 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 90
+[2022-10-16 at 12:37:45 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 17, is executing
+[2022-10-16 at 12:37:47 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 17, is committing 0
+[2022-10-16 at 12:37:48 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 18, is committing 1
+[2022-10-16 at 12:37:49 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 91
+[2022-10-16 at 12:37:49 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 19, is committing 2
+[2022-10-16 at 12:37:49 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 18, is executing
+[2022-10-16 at 12:37:49 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 19, is executing
+[2022-10-16 at 12:37:49 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 92
+[2022-10-16 at 12:37:49 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 93
+[2022-10-16 at 12:37:49 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 20, is executing
+[2022-10-16 at 12:37:51 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 20, is committing 3
+[2022-10-16 at 12:37:52 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 21, is committing 4
+[2022-10-16 at 12:37:52 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 94
+[2022-10-16 at 12:37:52 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 21, is executing
+[2022-10-16 at 12:37:52 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 22, is committing 5
+[2022-10-16 at 12:37:53 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 22, is executing
+[2022-10-16 at 12:37:53 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 23, is committing 6
+[2022-10-16 at 12:37:53 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 95
+[2022-10-16 at 12:37:53 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 24, is committing 7
+[2022-10-16 at 12:37:53 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 23, is executing
+[2022-10-16 at 12:37:53 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 96
+[2022-10-16 at 12:37:54 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 25, is committing 8
+[2022-10-16 at 12:37:54 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 24, is executing
+[2022-10-16 at 12:37:54 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 97
+[2022-10-16 at 12:37:54 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 26, is committing 9
+[2022-10-16 at 12:37:54 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 25, is executing
+[2022-10-16 at 12:37:54 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 98
+[2022-10-16 at 12:37:55 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 26, is executing
+[2022-10-16 at 12:37:55 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 99
+[2022-10-16 at 12:37:55 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 17, is executing
+[2022-10-16 at 12:37:55 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 100
+[2022-10-16 at 12:37:57 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 17, is committing 0
+[2022-10-16 at 12:37:57 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 18, is committing 1
+[2022-10-16 at 12:37:58 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 18, is executing
+[2022-10-16 at 12:37:58 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 19, is committing 2
+[2022-10-16 at 12:37:58 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 101
+[2022-10-16 at 12:37:58 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 102
+[2022-10-16 at 12:37:58 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 103
+[2022-10-16 at 12:37:58 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 20, is executing
+[2022-10-16 at 12:38:00 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 20, is committing 3
+[2022-10-16 at 12:38:01 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 21, is committing 4
+[2022-10-16 at 12:38:01 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 21, is executing
+[2022-10-16 at 12:38:01 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 104
+[2022-10-16 at 12:38:01 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 22, is committing 5
+[2022-10-16 at 12:38:02 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 22, is executing
+[2022-10-16 at 12:38:02 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 105
+[2022-10-16 at 12:38:02 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 23, is committing 6
+[2022-10-16 at 12:38:02 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 106
+[2022-10-16 at 12:38:02 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 23, is executing
+[2022-10-16 at 12:38:02 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 24, is committing 7
+[2022-10-16 at 12:38:03 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 107
+[2022-10-16 at 12:38:03 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 25, is committing 8
+[2022-10-16 at 12:38:03 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 24, is executing
+[2022-10-16 at 12:38:03 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 25, is executing
+[2022-10-16 at 12:38:03 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 108
+[2022-10-16 at 12:38:03 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 26, is committing 9
+[2022-10-16 at 12:38:04 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 26, is executing
+[2022-10-16 at 12:38:04 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 109
+[2022-10-16 at 12:38:04 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 110
+[2022-10-16 at 12:38:04 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 17, is executing
+[2022-10-16 at 12:38:06 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 17, is committing 0
+[2022-10-16 at 12:38:06 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 18, is committing 1
+[2022-10-16 at 12:38:07 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 111
+[2022-10-16 at 12:38:07 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 18, is executing
+[2022-10-16 at 12:38:07 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 112
+[2022-10-16 at 12:38:07 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 19, is executing
+[2022-10-16 at 12:38:07 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 20, is executing
+[2022-10-16 at 12:38:07 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 113
+[2022-10-16 at 12:38:09 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 19, is committing 2
+[2022-10-16 at 12:38:09 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 20, is committing 3
+[2022-10-16 at 12:38:10 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 21, is committing 4
+[2022-10-16 at 12:38:10 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 21, is executing
+[2022-10-16 at 12:38:10 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 114
+[2022-10-16 at 12:38:10 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 22, is committing 5
+[2022-10-16 at 12:38:11 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 115
+[2022-10-16 at 12:38:11 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 23, is committing 6
+[2022-10-16 at 12:38:11 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 24, is committing 7
+[2022-10-16 at 12:38:11 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 116
+[2022-10-16 at 12:38:11 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 23, is executing
+[2022-10-16 at 12:38:12 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 25, is committing 8
+[2022-10-16 at 12:38:12 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 24, is executing
+[2022-10-16 at 12:38:12 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 117
+[2022-10-16 at 12:38:12 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 26, is committing 9
+[2022-10-16 at 12:38:12 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 25, is executing
+[2022-10-16 at 12:38:12 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 118
+[2022-10-16 at 12:38:13 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 26, is executing
+[2022-10-16 at 12:38:13 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 119
+[2022-10-16 at 12:38:13 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 120
+[2022-10-16 at 12:38:13 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 17, is executing
+[2022-10-16 at 12:38:15 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 17, is committing 0
+[2022-10-16 at 12:38:15 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 18, is committing 1
+[2022-10-16 at 12:38:16 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 121
+[2022-10-16 at 12:38:16 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 18, is executing
+[2022-10-16 at 12:38:16 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 19, is executing
+[2022-10-16 at 12:38:16 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 122
+[2022-10-16 at 12:38:16 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 123
+[2022-10-16 at 12:38:16 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 20, is executing
+[2022-10-16 at 12:38:18 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 19, is committing 2
+[2022-10-16 at 12:38:18 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 20, is committing 3
+[2022-10-16 at 12:38:19 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 21, is committing 4
+[2022-10-16 at 12:38:19 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 124
+[2022-10-16 at 12:38:19 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 21, is executing
+[2022-10-16 at 12:38:19 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 22, is executing
+[2022-10-16 at 12:38:19 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 125
+[2022-10-16 at 12:38:21 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 22, is committing 5
+[2022-10-16 at 12:38:22 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 23, is committing 6
+[2022-10-16 at 12:38:22 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 24, is committing 7
+[2022-10-16 at 12:38:22 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 126
+[2022-10-16 at 12:38:23 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 24, is executing
+[2022-10-16 at 12:38:23 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 127
+[2022-10-16 at 12:38:23 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 25, is committing 8
+[2022-10-16 at 12:38:23 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 25, is executing
+[2022-10-16 at 12:38:23 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 26, is committing 9
+[2022-10-16 at 12:38:23 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 128
+[2022-10-16 at 12:38:24 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 26, is executing
+[2022-10-16 at 12:38:24 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 129
+[2022-10-16 at 12:38:24 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 130
+[2022-10-16 at 12:38:24 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 17, is executing
+[2022-10-16 at 12:38:26 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 17, is committing 0
+[2022-10-16 at 12:38:26 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 18, is committing 1
+[2022-10-16 at 12:38:27 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 131
+[2022-10-16 at 12:38:27 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 18, is executing
+[2022-10-16 at 12:38:27 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 132
+[2022-10-16 at 12:38:27 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 19, is executing
+[2022-10-16 at 12:38:27 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 133
+[2022-10-16 at 12:38:27 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 20, is executing
+[2022-10-16 at 12:38:29 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 19, is committing 2
+[2022-10-16 at 12:38:30 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 20, is committing 3
+[2022-10-16 at 12:38:30 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 21, is committing 4
+[2022-10-16 at 12:38:31 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 134
+[2022-10-16 at 12:38:31 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 21, is executing
+[2022-10-16 at 12:38:31 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 22, is executing
+[2022-10-16 at 12:38:31 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 135
+[2022-10-16 at 12:38:31 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 23, is executing
+[2022-10-16 at 12:38:31 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 136
+[2022-10-16 at 12:38:33 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 22, is committing 5
+[2022-10-16 at 12:38:33 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 23, is committing 6
+[2022-10-16 at 12:38:34 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 24, is committing 7
+[2022-10-16 at 12:38:34 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 137
+[2022-10-16 at 12:38:34 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 24, is executing
+[2022-10-16 at 12:38:34 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 25, is committing 8
+[2022-10-16 at 12:38:35 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 138
+[2022-10-16 at 12:38:35 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 25, is executing
+[2022-10-16 at 12:38:35 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 26, is committing 9
+[2022-10-16 at 12:38:35 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 139
+[2022-10-16 at 12:38:35 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 17, is executing
+[2022-10-16 at 12:38:35 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 140
+[2022-10-16 at 12:38:37 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 17, is committing 0
+[2022-10-16 at 12:38:38 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 18, is committing 1
+[2022-10-16 at 12:38:38 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 141
+[2022-10-16 at 12:38:38 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 142
+[2022-10-16 at 12:38:38 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 19, is executing
+[2022-10-16 at 12:38:38 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 20, is executing
+[2022-10-16 at 12:38:38 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 143
+[2022-10-16 at 12:38:40 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 19, is committing 2
+[2022-10-16 at 12:38:41 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 20, is committing 3
+[2022-10-16 at 12:38:41 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 21, is committing 4
+[2022-10-16 at 12:38:42 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 21, is executing
+[2022-10-16 at 12:38:42 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 144
+[2022-10-16 at 12:38:42 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 22, is executing
+[2022-10-16 at 12:38:42 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 145
+[2022-10-16 at 12:38:42 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 23, is executing
+[2022-10-16 at 12:38:42 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 146
+[2022-10-16 at 12:38:44 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 22, is committing 5
+[2022-10-16 at 12:38:44 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 23, is committing 6
+[2022-10-16 at 12:38:45 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 24, is committing 7
+[2022-10-16 at 12:38:45 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 24, is executing
+[2022-10-16 at 12:38:45 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 147
+[2022-10-16 at 12:38:45 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 25, is committing 8
+[2022-10-16 at 12:38:46 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 25, is executing
+[2022-10-16 at 12:38:46 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 148
+[2022-10-16 at 12:38:46 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 149
+[2022-10-16 at 12:38:46 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 26, is executing
+[2022-10-16 at 12:38:46 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 150
+[2022-10-16 at 12:38:46 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 17, is executing
+[2022-10-16 at 12:38:46 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 151
+[2022-10-16 at 12:38:46 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 18, is executing
+[2022-10-16 at 12:38:46 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 19, is executing
+[2022-10-16 at 12:38:46 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 152
+[2022-10-16 at 12:38:46 CST] [INFO ] com.example.main.Main.main(Main.java:300) - 153
+[2022-10-16 at 12:38:46 CST] [DEBUG] com.example.main.Execute.run(Execute.java:56) - Id: 20, is executing
+[2022-10-16 at 12:38:48 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 26, is committing 9
+[2022-10-16 at 12:38:48 CST] [INFO ] com.example.main.Execute.run(Execute.java:64) - Id: 17, is committing 0

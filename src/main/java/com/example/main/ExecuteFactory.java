@@ -1,6 +1,7 @@
 package com.example.main;
 
 import java.sql.Connection;
+import java.sql.PreparedStatement;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.ExecutorService;
@@ -26,7 +27,9 @@ public final class ExecuteFactory {
      *
      * @param threadNum 线程数
      */
-    public ExecuteFactory(final int threadNum, final List<Connection> connections) {
+    public ExecuteFactory(final int threadNum,
+                          final List<Connection> connections,
+                          final List<PreparedStatement> preparedStatements) {
         this.threadNum = threadNum;
         executorService = Executors.newFixedThreadPool(threadNum);
         // 提交要按序提交，建立一把提交锁
@@ -46,12 +49,13 @@ public final class ExecuteFactory {
             exeConditions.add(exeCondition);
             // 构建并执行线程
             executorService.execute(new Execute(commitLock, commitCondition, exeLock, exeCondition, exeSignal,
-                    i, threadNum, connections.get(i)));
+                    i, threadNum, connections.get(i), preparedStatements.get(i)));
         }
     }
 
-    public ExecuteFactory(List<Connection> connections) {
-        this(DEFAULT_THREAD_NUM, connections);
+    public ExecuteFactory(final List<Connection> connections,
+                          final List<PreparedStatement> preparedStatements) {
+        this(DEFAULT_THREAD_NUM, connections, preparedStatements);
     }
 
     /**

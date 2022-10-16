@@ -1,12 +1,10 @@
 package com.example.main;
 
-import lombok.Getter;
-import lombok.Setter;
 import lombok.SneakyThrows;
 import lombok.extern.slf4j.Slf4j;
 
 import java.sql.Connection;
-import java.util.List;
+import java.sql.PreparedStatement;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.ReentrantLock;
@@ -18,6 +16,7 @@ import java.util.concurrent.locks.ReentrantLock;
 @Slf4j
 public final class Execute implements Runnable {
     private Connection connection;
+    private PreparedStatement preparedStatement;
     private final ReentrantLock commitLock;
     private final Condition commitCondition;
     private final ReentrantLock exeLock;
@@ -33,7 +32,8 @@ public final class Execute implements Runnable {
                    final AtomicInteger exeId,
                    final int id,
                    final int threadNum,
-                   final Connection connection) {
+                   final Connection connection,
+                   final PreparedStatement preparedStatement) {
         this.commitLock = commitLock;
         this.commitCondition = commitCondition;
         this.exeLock = exeLock;
@@ -41,6 +41,7 @@ public final class Execute implements Runnable {
         this.exeId = exeId;
         this.id = id;
         this.connection = connection;
+        this.preparedStatement = preparedStatement;
         nextExecuteId = id == threadNum - 1 ? 0 : id + 1;
     }
 
@@ -58,7 +59,7 @@ public final class Execute implements Runnable {
             // 提交过程需要按序执行
             commitLock.lock();
             // 监测是否唤醒了自己执行提交
-            while (this.exeId.get() != id) {
+            for (; this.exeId.get() != id; ) {
                 commitCondition.await();
             }
             log.info("Id: {}, is committing {}", Thread.currentThread().getId(), id);
