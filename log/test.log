@@ -1051,3 +1051,257 @@
 [10:59:05.631] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 19, is executing
 [10:59:07.636] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 25, is committing 8
 [10:59:08.151] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 17, is committing 0
+[10:59:08.665] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 18, is committing 1
+[10:59:09.180] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 19, is committing 2
+[10:59:09.691] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 20, is committing 3
+[10:59:10.204] [INFO ] com.example.main.Main.exe(Main.java:19) - 363
+[10:59:10.204] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 20, is executing
+[10:59:10.204] [INFO ] com.example.main.Main.exe(Main.java:19) - 364
+[10:59:10.204] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 21, is executing
+[10:59:10.204] [INFO ] com.example.main.Main.exe(Main.java:19) - 365
+[10:59:10.204] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 22, is executing
+[10:59:10.204] [INFO ] com.example.main.Main.exe(Main.java:19) - 366
+[10:59:10.204] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 23, is executing
+[10:59:12.205] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 21, is committing 4
+[10:59:12.718] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 22, is committing 5
+[10:59:13.232] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 23, is committing 6
+[10:59:13.733] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 24, is committing 7
+[10:59:14.246] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 24, is executing
+[10:59:14.246] [INFO ] com.example.main.Main.exe(Main.java:19) - 367
+[10:59:14.246] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 25, is executing
+[10:59:14.246] [INFO ] com.example.main.Main.exe(Main.java:19) - 368
+[10:59:14.246] [INFO ] com.example.main.Main.exe(Main.java:19) - 369
+[10:59:14.246] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 17, is executing
+[10:59:14.246] [INFO ] com.example.main.Main.exe(Main.java:19) - 370
+[10:59:14.246] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 18, is executing
+[10:59:14.246] [INFO ] com.example.main.Main.exe(Main.java:19) - 371
+[10:59:14.246] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 19, is executing
+[10:59:16.258] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 25, is committing 8
+[10:59:16.759] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 17, is committing 0
+[10:59:17.271] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 18, is committing 1
+[10:59:17.783] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 19, is committing 2
+[10:59:18.295] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 20, is committing 3
+[10:59:18.806] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 20, is executing
+[10:59:18.806] [INFO ] com.example.main.Main.exe(Main.java:19) - 372
+[10:59:18.806] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 21, is executing
+[10:59:18.806] [INFO ] com.example.main.Main.exe(Main.java:19) - 373
+[10:59:18.806] [INFO ] com.example.main.Main.exe(Main.java:19) - 374
+[10:59:18.806] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 22, is executing
+[10:59:18.807] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 23, is executing
+[10:59:18.806] [INFO ] com.example.main.Main.exe(Main.java:19) - 375
+[10:59:20.829] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 21, is committing 4
+[10:59:21.333] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 22, is committing 5
+[10:59:21.846] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 23, is committing 6
+[10:59:22.353] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 24, is committing 7
+[10:59:22.886] [INFO ] com.example.main.Main.exe(Main.java:19) - 376
+[10:59:22.886] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 24, is executing
+[10:59:22.887] [INFO ] com.example.main.Main.exe(Main.java:19) - 377
+[10:59:22.887] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 25, is executing
+[10:59:22.887] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 17, is executing
+[10:59:22.887] [INFO ] com.example.main.Main.exe(Main.java:19) - 378
+[10:59:22.887] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 18, is executing
+[10:59:22.887] [INFO ] com.example.main.Main.exe(Main.java:19) - 379
+[10:59:22.888] [INFO ] com.example.main.Main.exe(Main.java:19) - 380
+[10:59:22.888] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 19, is executing
+[10:59:24.900] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 25, is committing 8
+[10:59:25.411] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 17, is committing 0
+[10:59:25.924] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 18, is committing 1
+[10:59:26.435] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 19, is committing 2
+[10:59:26.944] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 20, is committing 3
+[10:59:27.446] [INFO ] com.example.main.Main.exe(Main.java:19) - 381
+[10:59:27.446] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 20, is executing
+[10:59:27.446] [INFO ] com.example.main.Main.exe(Main.java:19) - 382
+[10:59:27.446] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 21, is executing
+[10:59:27.446] [INFO ] com.example.main.Main.exe(Main.java:19) - 383
+[10:59:27.446] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 22, is executing
+[10:59:27.446] [INFO ] com.example.main.Main.exe(Main.java:19) - 384
+[10:59:27.446] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 23, is executing
+[10:59:29.458] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 21, is committing 4
+[10:59:29.960] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 22, is committing 5
+[10:59:30.470] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 23, is committing 6
+[10:59:30.980] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 24, is committing 7
+[10:59:31.486] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 24, is executing
+[10:59:31.486] [INFO ] com.example.main.Main.exe(Main.java:19) - 385
+[10:59:31.486] [INFO ] com.example.main.Main.exe(Main.java:19) - 386
+[10:59:31.486] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 25, is executing
+[10:59:31.486] [INFO ] com.example.main.Main.exe(Main.java:19) - 387
+[10:59:31.486] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 17, is executing
+[10:59:31.486] [INFO ] com.example.main.Main.exe(Main.java:19) - 388
+[10:59:31.486] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 18, is executing
+[10:59:31.486] [INFO ] com.example.main.Main.exe(Main.java:19) - 389
+[10:59:31.486] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 19, is executing
+[10:59:33.494] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 25, is committing 8
+[10:59:34.007] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 17, is committing 0
+[10:59:34.519] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 18, is committing 1
+[10:59:35.030] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 19, is committing 2
+[10:59:35.546] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 20, is committing 3
+[10:59:36.049] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 20, is executing
+[10:59:36.049] [INFO ] com.example.main.Main.exe(Main.java:19) - 390
+[10:59:36.049] [INFO ] com.example.main.Main.exe(Main.java:19) - 391
+[10:59:36.049] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 21, is executing
+[10:59:36.050] [INFO ] com.example.main.Main.exe(Main.java:19) - 392
+[10:59:36.050] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 22, is executing
+[10:59:36.050] [INFO ] com.example.main.Main.exe(Main.java:19) - 393
+[10:59:36.050] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 23, is executing
+[10:59:38.052] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 21, is committing 4
+[10:59:38.557] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 22, is committing 5
+[10:59:39.065] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 23, is committing 6
+[10:59:39.577] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 24, is committing 7
+[10:59:40.086] [INFO ] com.example.main.Main.exe(Main.java:19) - 394
+[10:59:40.086] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 24, is executing
+[10:59:40.086] [INFO ] com.example.main.Main.exe(Main.java:19) - 395
+[10:59:40.086] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 25, is executing
+[10:59:40.086] [INFO ] com.example.main.Main.exe(Main.java:19) - 396
+[10:59:40.086] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 17, is executing
+[10:59:40.086] [INFO ] com.example.main.Main.exe(Main.java:19) - 397
+[10:59:40.086] [INFO ] com.example.main.Main.exe(Main.java:19) - 398
+[10:59:40.087] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 18, is executing
+[10:59:40.086] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 19, is executing
+[10:59:42.100] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 25, is committing 8
+[10:59:42.605] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 17, is committing 0
+[10:59:43.119] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 18, is committing 1
+[10:59:43.633] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 19, is committing 2
+[10:59:44.146] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 20, is committing 3
+[10:59:44.646] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 20, is executing
+[10:59:44.646] [INFO ] com.example.main.Main.exe(Main.java:19) - 399
+[10:59:44.646] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 21, is executing
+[10:59:44.646] [INFO ] com.example.main.Main.exe(Main.java:19) - 400
+[10:59:44.646] [INFO ] com.example.main.Main.exe(Main.java:19) - 401
+[10:59:44.646] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 22, is executing
+[10:59:44.646] [INFO ] com.example.main.Main.exe(Main.java:19) - 402
+[10:59:44.646] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 23, is executing
+[10:59:46.654] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 21, is committing 4
+[10:59:47.158] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 22, is committing 5
+[10:59:47.672] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 23, is committing 6
+[10:59:48.182] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 24, is committing 7
+[10:59:48.691] [INFO ] com.example.main.Main.exe(Main.java:19) - 403
+[10:59:48.691] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 24, is executing
+[10:59:48.691] [INFO ] com.example.main.Main.exe(Main.java:19) - 404
+[10:59:48.691] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 25, is executing
+[10:59:48.691] [INFO ] com.example.main.Main.exe(Main.java:19) - 405
+[10:59:48.691] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 17, is executing
+[10:59:48.691] [INFO ] com.example.main.Main.exe(Main.java:19) - 406
+[10:59:48.691] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 18, is executing
+[10:59:48.691] [INFO ] com.example.main.Main.exe(Main.java:19) - 407
+[10:59:48.691] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 19, is executing
+[10:59:50.693] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 25, is committing 8
+[10:59:51.204] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 17, is committing 0
+[10:59:51.713] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 18, is committing 1
+[10:59:52.227] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 19, is committing 2
+[10:59:52.742] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 20, is committing 3
+[10:59:53.257] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 20, is executing
+[10:59:53.257] [INFO ] com.example.main.Main.exe(Main.java:19) - 408
+[10:59:53.257] [INFO ] com.example.main.Main.exe(Main.java:19) - 409
+[10:59:53.257] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 21, is executing
+[10:59:53.257] [INFO ] com.example.main.Main.exe(Main.java:19) - 410
+[10:59:53.257] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 22, is executing
+[10:59:53.257] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 23, is executing
+[10:59:53.257] [INFO ] com.example.main.Main.exe(Main.java:19) - 411
+[10:59:55.257] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 21, is committing 4
+[10:59:55.771] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 22, is committing 5
+[10:59:56.273] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 23, is committing 6
+[10:59:56.774] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 24, is committing 7
+[10:59:57.285] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 24, is executing
+[10:59:57.285] [INFO ] com.example.main.Main.exe(Main.java:19) - 412
+[10:59:57.285] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 25, is executing
+[10:59:57.285] [INFO ] com.example.main.Main.exe(Main.java:19) - 413
+[10:59:57.285] [INFO ] com.example.main.Main.exe(Main.java:19) - 414
+[10:59:57.285] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 17, is executing
+[10:59:57.285] [INFO ] com.example.main.Main.exe(Main.java:19) - 415
+[10:59:57.285] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 18, is executing
+[10:59:57.285] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 19, is executing
+[10:59:57.285] [INFO ] com.example.main.Main.exe(Main.java:19) - 416
+[10:59:59.292] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 25, is committing 8
+[10:59:59.804] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 17, is committing 0
+[11:00:00.310] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 18, is committing 1
+[11:00:00.811] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 19, is committing 2
+[11:00:01.314] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 20, is committing 3
+[11:00:01.816] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 20, is executing
+[11:00:01.816] [INFO ] com.example.main.Main.exe(Main.java:19) - 417
+[11:00:01.816] [INFO ] com.example.main.Main.exe(Main.java:19) - 418
+[11:00:01.816] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 21, is executing
+[11:00:01.816] [INFO ] com.example.main.Main.exe(Main.java:19) - 419
+[11:00:01.816] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 22, is executing
+[11:00:01.816] [INFO ] com.example.main.Main.exe(Main.java:19) - 420
+[11:00:01.816] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 23, is executing
+[11:00:03.823] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 21, is committing 4
+[11:00:04.325] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 22, is committing 5
+[11:00:04.835] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 23, is committing 6
+[11:00:05.347] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 24, is committing 7
+[11:00:05.861] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 24, is executing
+[11:00:05.861] [INFO ] com.example.main.Main.exe(Main.java:19) - 421
+[11:00:05.861] [INFO ] com.example.main.Main.exe(Main.java:19) - 422
+[11:00:05.861] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 25, is executing
+[11:00:05.861] [INFO ] com.example.main.Main.exe(Main.java:19) - 423
+[11:00:05.861] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 17, is executing
+[11:00:05.861] [INFO ] com.example.main.Main.exe(Main.java:19) - 424
+[11:00:05.861] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 18, is executing
+[11:00:05.861] [INFO ] com.example.main.Main.exe(Main.java:19) - 425
+[11:00:05.861] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 19, is executing
+[11:00:07.875] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 25, is committing 8
+[11:00:08.389] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 17, is committing 0
+[11:00:08.892] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 18, is committing 1
+[11:00:09.397] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 19, is committing 2
+[11:00:09.910] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 20, is committing 3
+[11:00:10.416] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 20, is executing
+[11:00:10.416] [INFO ] com.example.main.Main.exe(Main.java:19) - 426
+[11:00:10.416] [INFO ] com.example.main.Main.exe(Main.java:19) - 427
+[11:00:10.416] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 21, is executing
+[11:00:10.416] [INFO ] com.example.main.Main.exe(Main.java:19) - 428
+[11:00:10.416] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 22, is executing
+[11:00:10.416] [INFO ] com.example.main.Main.exe(Main.java:19) - 429
+[11:00:10.416] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 23, is executing
+[11:00:12.421] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 21, is committing 4
+[11:00:12.929] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 22, is committing 5
+[11:00:13.438] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 23, is committing 6
+[11:00:13.953] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 24, is committing 7
+[11:00:14.468] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 24, is executing
+[11:00:14.468] [INFO ] com.example.main.Main.exe(Main.java:19) - 430
+[11:00:14.468] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 25, is executing
+[11:00:14.468] [INFO ] com.example.main.Main.exe(Main.java:19) - 431
+[11:00:14.468] [INFO ] com.example.main.Main.exe(Main.java:19) - 432
+[11:00:14.468] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 17, is executing
+[11:00:14.468] [INFO ] com.example.main.Main.exe(Main.java:19) - 433
+[11:00:14.468] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 18, is executing
+[11:00:14.469] [INFO ] com.example.main.Main.exe(Main.java:19) - 434
+[11:00:14.469] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 19, is executing
+[11:00:16.476] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 25, is committing 8
+[11:00:16.989] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 17, is committing 0
+[11:00:17.494] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 18, is committing 1
+[11:00:18.001] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 19, is committing 2
+[11:00:18.515] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 20, is committing 3
+[11:00:19.024] [INFO ] com.example.main.Main.exe(Main.java:19) - 435
+[11:00:19.024] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 20, is executing
+[11:00:19.024] [INFO ] com.example.main.Main.exe(Main.java:19) - 436
+[11:00:19.024] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 21, is executing
+[11:00:19.024] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 22, is executing
+[11:00:19.024] [INFO ] com.example.main.Main.exe(Main.java:19) - 437
+[11:00:19.025] [INFO ] com.example.main.Main.exe(Main.java:19) - 438
+[11:00:19.025] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 23, is executing
+[11:00:21.027] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 21, is committing 4
+[11:00:21.535] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 22, is committing 5
+[11:00:22.049] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 23, is committing 6
+[11:00:22.552] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 24, is committing 7
+[11:00:23.067] [INFO ] com.example.main.Main.exe(Main.java:19) - 439
+[11:00:23.067] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 24, is executing
+[11:00:23.067] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 25, is executing
+[11:00:23.067] [INFO ] com.example.main.Main.exe(Main.java:19) - 440
+[11:00:23.067] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 17, is executing
+[11:00:23.067] [INFO ] com.example.main.Main.exe(Main.java:19) - 441
+[11:00:23.067] [INFO ] com.example.main.Main.exe(Main.java:19) - 442
+[11:00:23.067] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 18, is executing
+[11:00:23.067] [INFO ] com.example.main.Main.exe(Main.java:19) - 443
+[11:00:23.067] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 19, is executing
+[11:00:25.072] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 25, is committing 8
+[11:00:25.574] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 17, is committing 0
+[11:00:26.084] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 18, is committing 1
+[11:00:26.595] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 19, is committing 2
+[11:00:27.097] [INFO ] com.example.main.Execute.run(Execute.java:61) - Id: 20, is committing 3
+[11:00:27.607] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 20, is executing
+[11:00:27.607] [INFO ] com.example.main.Main.exe(Main.java:19) - 444
+[11:00:27.607] [INFO ] com.example.main.Main.exe(Main.java:19) - 445
+[11:00:27.607] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 21, is executing
+[11:00:27.607] [INFO ] com.example.main.Main.exe(Main.java:19) - 446
+[11:00:27.607] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 22, is executing
+[11:00:27.607] [INFO ] com.example.main.Main.exe(Main.java:19) - 447
+[11:00:27.607] [DEBUG] com.example.main.Execute.run(Execute.java:55) - Id: 23, is executing

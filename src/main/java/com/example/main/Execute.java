@@ -13,8 +13,6 @@ import java.util.concurrent.locks.ReentrantLock;
  * @author 44380
  * @version 2022~10~15~21:22
  */
-@Getter
-@Setter
 @Slf4j
 public final class Execute implements Runnable {
     // private Connection connection;
@@ -24,8 +22,7 @@ public final class Execute implements Runnable {
     private final ReentrantLock exeLock;
     private final Condition exeCondition;
     private final AtomicInteger exeId;
-    private volatile int id;
-    private final int threadNum;
+    private final int id;
     private final int nextExecuteId;
 
     public Execute(final ReentrantLock commitLock,
@@ -41,7 +38,6 @@ public final class Execute implements Runnable {
         this.exeCondition = exeCondition;
         this.exeId = exeId;
         this.id = id;
-        this.threadNum = threadNum;
         nextExecuteId = id == threadNum - 1 ? 0 : id + 1;
     }
 
