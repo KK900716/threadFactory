@@ -1,0 +1,43 @@
+plugins {
+    id 'java'
+    id 'com.github.johnrengelman.shadow' version '7.1.1'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+
+dependencies {
+    implementation 'org.projectlombok:lombok:1.18.24'
+    annotationProcessor 'org.projectlombok:lombok:1.18.24'
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.9.0'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.9.0'
+    implementation 'org.apache.logging.log4j:log4j-slf4j-impl:2.19.0'
+    implementation 'org.apache.logging.log4j:log4j-api:2.19.0'
+    implementation 'org.apache.logging.log4j:log4j-core:2.19.0'
+    implementation 'org.slf4j:slf4j-api:1.7.36'
+    implementation 'mysql:mysql-connector-java:8.0.30'
+}
+
+test {
+    useJUnitPlatform()
+}
+
+shadowJar  {
+    manifest {
+        attributes(
+                // 运行主类的全称类名
+                'Main-Class': 'com.example.main.Main'
+        )
+    }
+    zip64 true
+
+    archiveClassifier.set('')
+    // 打包后的jar包文件名
+    archiveBaseName.set('java-example')
+    archiveVersion.set('')
+}
