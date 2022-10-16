@@ -45,6 +45,7 @@ public final class Execute implements Runnable {
     @Override
     public void run() {
         for (; ; ) {
+            // 执行锁，限制该线程每次
             exeLock.lock();
             exeCondition.await();
             // preparedStatement.executeBatch();
