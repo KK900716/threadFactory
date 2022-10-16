@@ -5,6 +5,8 @@ import lombok.Setter;
 import lombok.SneakyThrows;
 import lombok.extern.slf4j.Slf4j;
 
+import java.sql.Connection;
+import java.util.List;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.ReentrantLock;
@@ -15,8 +17,7 @@ import java.util.concurrent.locks.ReentrantLock;
  */
 @Slf4j
 public final class Execute implements Runnable {
-    // private Connection connection;
-    // private PreparedStatement preparedStatement;
+    private Connection connection;
     private final ReentrantLock commitLock;
     private final Condition commitCondition;
     private final ReentrantLock exeLock;
@@ -31,13 +32,15 @@ public final class Execute implements Runnable {
                    final Condition exeCondition,
                    final AtomicInteger exeId,
                    final int id,
-                   final int threadNum) {
+                   final int threadNum,
+                   final Connection connection) {
         this.commitLock = commitLock;
         this.commitCondition = commitCondition;
         this.exeLock = exeLock;
         this.exeCondition = exeCondition;
         this.exeId = exeId;
         this.id = id;
+        this.connection = connection;
         nextExecuteId = id == threadNum - 1 ? 0 : id + 1;
     }
 
